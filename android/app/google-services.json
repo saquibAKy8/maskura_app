@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "177416344816",
+    "project_id": "maskuraappdatabase",
+    "storage_bucket": "maskuraappdatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177416344816:android:263ab4d2db34d37f2d9e35",
+        "android_client_info": {
+          "package_name": "com.example.maskura_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177416344816-d3teesd21lq14mvv1qepa1gmfpvpmfnq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maskura_app",
+            "certificate_hash": "e9c01f8861e4a42def0a9ae254581e7e5e0278d9"
+          }
+        },
+        {
+          "client_id": "177416344816-t4497es05ftalqimqh2277e83d0a3vat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUn7MX0zZ0gqnpwske1BDQX9QyE-hEijY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177416344816-t4497es05ftalqimqh2277e83d0a3vat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

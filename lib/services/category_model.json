@@ -1,0 +1,68 @@
+{
+    "categories": [
+        {
+            "name": "Yoga",
+            "subcategory": [
+                "Abaodam Yoga",
+                "Yoga Wheel Set",
+                "Miscellaneous"
+            ]
+        },
+        {
+            "name": "Barbells & Dumbells",
+            "subcategory": [
+                "Barbells",
+                "Dumbells",
+                "Excercise & Fitness"
+            ]
+        },
+        {
+            "name": "Health & Beauty",
+            "subcategory": [
+                "Healthcare",
+                "Cosmetic",
+                "Miscellaneous"
+            ]
+        },
+        {
+            "name": "Cycling",
+            "subcategory": [
+                "Cycling Lights",
+                "Cycling Wear",
+                "Cycling Products"
+            ]
+        },
+        {
+            "name": "Abs Trainer",
+            "subcategory": [
+                "Excercise & Fitness",
+                "Support",
+                "Equipments"
+            ]
+        },
+        {
+            "name": "Swimming",
+            "subcategory": [
+                "Swim Wears",
+                "Floating Tubes",
+                "Float Wears"
+            ]
+        },
+        {
+            "name": "Soccer",
+            "subcategory": [
+                "Soccer Wears",
+                "Soccer Products",
+                "Soccer Trainer"
+            ]
+        },
+        {
+            "name": "Healthcare",
+            "subcategory": [
+                "Sphygmomanometer",
+                "Support",
+                "Dental"
+            ]
+        }
+    ]
+}
